@@ -1,2 +1,5 @@
 # Hello-world
-Newbie
+
+Hi Genius!
+Welcome to the earth!
+Enjoy your life.
